@@ -1,5 +1,3 @@
-
-
 <template>
     <main>
       This Site is a Folio Work in Progress for
