@@ -1,39 +1,9 @@
-# zecwicks.com-Website
+# ZecWicks.com Website
+This is my first website that wasn't made in PHP, using a relevant, modern language - Vue.
 
-This template should help get you started developing with Vue 3 in Vite.
+I had to learn Vue for this project, so the code is far from perfect.
 
-## Recommended IDE Setup
+# Purpose
+This website is intended to act a an e-portfolio , resume, and contact forum.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+New features will slowly be rolled out (time permitting)
