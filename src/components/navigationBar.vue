@@ -53,37 +53,6 @@
   align-items: center;
 }
 
-button {
-  color: #ccc;
-  background-color: #333; /* Inactive button background color */
-  border: none;
-  padding: 0.5rem 1rem;
-  margin: 0rem 0.1rem;
-  cursor: pointer;
-  transition: background-color 0.3s;
-  width: 100%; /* Make the buttons fill the available space */
-  text-align: center; /* Center the button text */
-}
-
-button.active {
-  background-color: #8a2be2; /* Accent color for active button */
-}
-
-button:not(.active):hover {
-  background-color: #6b3890;
-}
-
-.navbar-item {
-  color: #ccc;
-  text-decoration: none;
-  margin-right: 1rem;
-  transition: color 0.3s;
-}
-
-.navbar-item.active {
-  color: #8a2be2; /* Light purple accent color */
-}
-
 .navbar-name {
   margin-right: 0.5rem;
 }
@@ -96,9 +65,8 @@ button:not(.active):hover {
   filter: invert();
 }
 
-body {
-  margin: 0;
-  padding: 0;
-}
+
+@import '../assets/page.css';
+
 </style>
-  
+
