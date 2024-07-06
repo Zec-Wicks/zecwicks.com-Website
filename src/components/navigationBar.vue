@@ -3,7 +3,6 @@
       <!-- Navigation buttons -->
       <div class="navbar-left">
         <button :class="{ 'active': $route.path === '/' }" @click="navigateTo('/')">Home</button>
-        <button :class="{ 'active': $route.path === '/portfolio' }" @click="navigateTo('/portfolio')">Portfolio</button>
         <button :class="{ 'active': $route.path === '/resume' }" @click="navigateTo('/resume')">Resume</button>
         <button :class="{ 'active': $route.path === '/about' }" @click="navigateTo('/about')">About</button>
         <button :class="{ 'active': $route.path === '/contact' }" @click="navigateTo('/contact')">Contact</button>
@@ -34,6 +33,8 @@
   
 <!-- navigation bar styling -->
 <style>
+@import '../assets/page.css';
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -51,6 +52,8 @@
 .navbar-right {
   display: flex;
   align-items: center;
+  margin-right: 10px;
+  margin-top: 4px;
 }
 
 .navbar-name {
@@ -64,9 +67,6 @@
 .navbar-icon:hover {
   filter: invert();
 }
-
-
-@import '../assets/page.css';
 
 </style>
 

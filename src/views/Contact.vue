@@ -1,6 +1,15 @@
 <template>
     <div class="bodyContents">
-        <h1>This Site is a <u><b><i>Work in Progress</i></b></u></h1>
+        <div class="contact-container">
+        <a href="mailto:contact@zecwicks.com" class="contact-button">
+            <img src="../assets/email-logo.svg" alt="Email Logo" class="button-logo" style="filter: invert();">
+            Email
+        </a>
+        <a href="https://linkedin.com/in/zechariah-wicks/" target="_blank" class="contact-button">
+            <img src="../assets/LinkedinLogo.svg" alt="LinkedIn Logo" class="button-logo" style="filter: invert();">
+            LinkedIn
+        </a>
+        </div>
     </div>
 
 </template>
