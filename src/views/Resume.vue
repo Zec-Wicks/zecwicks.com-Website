@@ -65,7 +65,7 @@
                         <ul>
                             <li>General Member (2022 – Current)</li>
                             <li>Executive Member (Treasurer) (2022 – 2023)</li>
-                            <li>Executive Member (President) (2023 – Current)</li>
+                            <li>Executive Member (President) (2023 – 2024)</li>
                         </ul>
                         <li><strong>Flinders University:</strong></li>
                         <ul>
