@@ -1,9 +1,9 @@
-# ZecWicks.com Website
-This is my first website that wasn't made in PHP, using a relevant, modern language - Vue.
+# Zecwicks.com Website
 
-I had to learn Vue for this project, so the code is far from perfect.
+Welcome to the Zecwicks.com website repository. This README provides an overview of the project, and other relevant information.
+
+This website was originally made using Vue. Currently, the site is built using Jekyll.
+The Repository is stored on GitHub, but the site is deployed on Cloudflare Pages.
 
 # Purpose
-This website is intended to act a an e-portfolio , resume, and contact forum.
-
-New features will slowly be rolled out (time permitting)
+This website is intended to act as an e-portfolio, blog, resume, and contact forum.
