@@ -4,9 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-# Zechariah Wicks
-
-## Education and Training
+# Education and Training
 - **September 2022**: Mental Health First Aid Course
 - **April 2022**: (HLTAID012) First Aid Course
 - **April 2022**: RRHAN Training
@@ -15,7 +13,7 @@ permalink: /resume/
   - Bachelor of Information Technology (Network and Cybersecurity Systems)
 - **2009 – 2021**: Westminster School (98.1 ATAR)
 
-## Employment
+# Employment
 - **Defence Science Technology Group (DSTG)**  
   - STEM Cadet (February 2024 – Current)
 - **Westminster School**  
@@ -31,11 +29,11 @@ permalink: /resume/
 - **Core Physiotherapy Marion**  
   - Administrative Assistant (September 2019 – March 2020)
 
-## Skills
+# Skills
 - **Programming Languages**: Java, R, C++, SQL, Python, HTML/CSS/JavaScript
 - **Personal**: Adaptability, effective communication, collaboration skills, quick learner, independent capabilities
 
-## Awards and Achievements
+# Awards and Achievements
 - **2024**: Flinders University Chancellor’s Letter of Commendation
 - **2023**: Horizon Professional Development – Gold Award with Leadership Specialisation
 - **2023**: Horizon Professional Development – Silver Award
@@ -48,7 +46,7 @@ permalink: /resume/
 - **2019**: Duke of Edinburgh Award – Silver
 - **2018**: Duke of Edinburgh Award – Bronze
 
-## Experience
+# Experience
 - **GitHub**  
   - Campus Expert Volunteering Program (2023 – Current)
 - **Flinders University Computer Society (FUCS)**  
