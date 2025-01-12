@@ -1,0 +1,5 @@
+Contact: mailto:contact@zecwicks.com
+Expires: 2025-12-31T13:29:00.000Z
+Preferred-Languages: en
+Canonical: https://zecwicks.com/.well-known/security.txt
+Canonical: https://www.zecwicks.com/.well-known/security.txt
