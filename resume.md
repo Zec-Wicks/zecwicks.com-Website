@@ -13,6 +13,12 @@ permalink: /resume/
   - Bachelor of Information Technology (Network and Cybersecurity Systems)
 - **2009 – 2021**: Westminster School (98.1 ATAR)
 
+# Certifications
+- **Cisco CyberOps Associate** – Issued Nov 2022
+- **CCNA: Enterprise Networking, Security, and Automation** – Issued Jan 2025
+- **CCNA: Switching, Routing, and Wireless Essentials** – Issued Jan 2025 
+
+
 # Employment
 - **Defence Science Technology Group (DSTG)**  
   - STEM Cadet (February 2024 – Current)
