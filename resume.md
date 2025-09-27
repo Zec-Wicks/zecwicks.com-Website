@@ -5,12 +5,12 @@ permalink: /resume/
 ---
 
 # Education and Training
-- **September 2022**: Mental Health First Aid Course
-- **April 2022**: (HLTAID012) First Aid Course
-- **April 2022**: RRHAN Training
 - **2022 - 2026**: Flinders University  
   - Bachelor of Engineering (Software) (Honours)  
   - Bachelor of Information Technology (Network and Cybersecurity Systems)
+- **February 2025**: (HLTAID012) First Aid Course
+- **September 2022**: Mental Health First Aid Course
+- **April 2022**: RRHAN Training
 - **2009 – 2021**: Westminster School (98.1 ATAR)
 
 # Employment
@@ -25,7 +25,7 @@ permalink: /resume/
   - Peer Mentor (July 2024 – Current)
   - Student and STEM Ambassador (July 2022 – Current)
 - **Pasadena Foodland**  
-  - Bakery Assistant (Baker) (November 2021 – Current)
+  - Bakery Assistant (Baker) (November 2021 – August 2025)
 - **Core Physiotherapy Marion**  
   - Administrative Assistant (September 2019 – March 2020)
 
@@ -34,6 +34,7 @@ permalink: /resume/
 - **Personal**: Adaptability, effective communication, collaboration skills, quick learner, independent capabilities
 
 # Awards and Achievements
+- **2025**: Flinders University Chancellor’s Letter of Commendation
 - **2024**: Flinders University Chancellor’s Letter of Commendation
 - **2023**: Horizon Professional Development – Gold Award with Leadership Specialisation
 - **2023**: Horizon Professional Development – Silver Award

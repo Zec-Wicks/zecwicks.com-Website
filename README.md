@@ -7,3 +7,9 @@ The Repository is stored on GitHub, but the site is deployed on Cloudflare Pages
 
 # Purpose
 This website is intended to act as an e-portfolio, blog, resume, and contact forum.
+
+# Runing Website
+To run this site for development or hosting run the following command.
+```
+bundle exec jekyll serve
+```
