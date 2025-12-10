@@ -38,10 +38,11 @@
 		font-family: 'Courier New', Courier, monospace;
 		color: #ffffff;
 		background-color: black;
-		cursor: default;
-		box-sizing: border-box;
-		padding: 20px 0;
-		min-height: 100vh;
+		margin: 0;
+		padding: 0;
+		height: 100vh;
+		height: 100dvh;
+		width: 100vw;
 		overflow: hidden;
 	}
 	.body {
@@ -160,11 +161,8 @@
 
 	@media (max-width: 768px) {
 		:global(body) {
-			height: auto;
-			min-height: 100vh;
-			overflow-y: auto;
-		}
-		.body {
+			/* height: auto; */
+			/* min-height: 100vh; */
 			overflow-y: auto;
 		}
 
